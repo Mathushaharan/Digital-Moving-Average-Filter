@@ -1,0 +1,6 @@
+Instructions 
+
+1. After making necessary hardware connections using the Arduino board and sensor, upload and compile 
+   the Arduino code given in the sketch folder.
+2. As the next step, Compile and run the MATLAB code while placing an object near the sensor.
+3. Necessary graphs can be obtained afterward.

@@ -1,0 +1,1 @@
+Designed a Digital Symmetric Moving Average FIR Filter using MATLAB and Arduino Development Board for noise removal of Ultrasonic Signals utilized in COVID-19 prevention applications such as sensor-based handwashing systems.
